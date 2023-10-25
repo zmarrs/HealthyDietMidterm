@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HealthyDietUser</string>
+    <string name="welcome">Welcome to Healthy Diet</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="reg_success">Registration Successful! Please Sign In…</string>
+    <string name="login_success">You have successfully signed in. Accessing app…</string>
+    <string name="question_label">Question</string>
+    <string name="answer_label">Answer</string>
+    <string name="user_label">User Name</string>
+    <string name="password_label">Password</string>
+    <string name="error_label">Error: </string>
+    <string name="user_not_found_err">User name and password combination not found.</string>
+    <string name="user_exists_err">User name already taken, please use another.</string>
+    <string name="empty_err">User name or password empty, please fill all fields.</string>
+    <string name="success">Success!</string>
+    <string name="ask">Ask a Question</string>
+    <string name="unanswered">Unanswered Questions</string>
+    <string name="answered">See Answers</string>
+    <string name="question">Question</string>
+    <string name="submit">Submit</string>
+    <string name="nutritionist">Nutritionist Mode</string>
+    <string name="user">User Mode</string>
+    <string name="id">Nutritionist ID</string>
+    <string name="hint">Enter 1 as the ID (it is the only valid entry)</string>
+    <string name="retrieve">Retrieve Questions</string>
+    <string name="title_activity_success">Success</string>
+    <string name="first_fragment_label">Your Label Text</string>
+    <string name="second_fragment_label">Your Label Text</string>
+</resources>
